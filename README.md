@@ -5,7 +5,7 @@
   Bu konuda çalışmaya başlamadan internette bazı araştırmalar yaptım ve bu haritalandırmayı herkesin yapabildiği gibi benim de yapabileceğimi gördüm ve yapmaya karar verdim . Çeşitli yazılı ve görsel dökümandan yardım alarak bu projeyi ortaya koyabildim .
   Projeyi yaparken Pandas , GeoPandas , Pillow ve IO kütüphanelerinden yardım almam ve Anaconda için bazı yüklemeler yapmam gerekti . Python dışında da QGIS in yüklemesini gerçekleştirdim . 
   
-  Bu projedeki verileri Johns Hopkins Üniversitesi’nin GitHub üzerine eklediği veriler üzerinden alarak yaptım .  Ayrıca dünya haritası için olan dosyalarımı Carlos Efraín Porto Tapiquén’in https://tapiquensig.jimdofree.com adresine yüklediği dosyalar ile yaptım . Onlara da teşekkürlerimi iletiyorum .
+  Bu projedeki verileri Johns Hopkins Üniversitesi’nin GitHub üzerine eklediği veriler üzerinden alarak yaptım .  Dünya haritası için olan dosyalarımı Carlos Efraín Porto Tapiquén’in https://tapiquensig.jimdofree.com adresine yüklediği dosyalar ile yaptım . Ayrıca GeoDelta Labs Youtube kanalının paylaşmış olduğu video çok fazla işimi gördü . Hepsine teşekkürlerimi iletiyorum .
 
 
 <img src="https://s7.gifyu.com/images/Coronamap.gif"/>
