@@ -6,3 +6,6 @@
   Projeyi yaparken Pandas , GeoPandas,Pillow ve IO kütüphanelerinden yardım almam ve Anaconda için bazı yüklemeler yapmam gerekti . Python dışında da QGIS in yüklemesini gerçekleştirdim . 
   
   Bu projedeki verileri Johns Hopkins Üniversitesi’nin GitHub üzerine eklediği veriler üzerinden alarak yaptım .  Ayrıca dünya haritası için olan dosyalarımı Carlos Efraín Porto Tapiquén’in https://tapiquensig.jimdofree.com adresine yüklediği dosyalar ile yaptım . Onlara da teşekkürlerimi sunuyorum .
+
+
+<img src="https://s7.gifyu.com/images/Coronamap.gif" width="100" height="100" />
